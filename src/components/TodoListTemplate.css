@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Indie+Flower|Shadows+Into+Light|Varela+Round&display=swap");
+
+.todo-list-template {
+  background: #fff;
+  width: 512px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  margin: 0 auto;
+  margin-top: 4rem;
+}
+
+.title {
+  padding: 2rem;
+  font-size: 2.5rem;
+  text-align: center;
+  font-weight: 400;
+  background: #ff6b6b;
+  color: #fff;
+  letter-spacing: 2px;
+  font-family: "Indie Flower", cursive;
+  /* font-family: 'Varela Round', sans-serif; */
+}
+
+.form-wrapper {
+  padding: 1rem;
+  border-bottom: 1px solid #ffe3e3;
+}
+
+.todo-wrapper {
+  min-height: 5rem;
+}

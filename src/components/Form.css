@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Indie+Flower|Shadows+Into+Light|Varela+Round&display=swap");
+
+.form {
+  display: flex;
+}
+
+.form input {
+  flex: 1; /* 버튼 뺀 빈공간 다 채워주기 */
+  font-size: 1.25rem;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #ffe3e3;
+}
+
+.create-button {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: 1rem;
+  background: #ff8787;
+  border-radius: 3px;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+  letter-spacing: 2px;
+  font-family: "Varela Round", sans-serif;
+}
+
+.create-button:hover {
+  background: #e64980;
+  transition: all 0.3s linear;
+}
