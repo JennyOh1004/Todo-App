@@ -8,7 +8,7 @@ I add the ability to create, show, update and remove lists on a todo. (CRUD)
 
 
 
-<img width="581" alt="todoList" src="https://user-images.githubusercontent.com/43684968/76134941-519be500-5fd7-11ea-876d-99e9e74e4649.png">
+   <img width="581" alt="todoList" src="https://user-images.githubusercontent.com/43684968/76134941-519be500-5fd7-11ea-876d-99e9e74e4649.png">
 
 
 <img width="713" alt="Screen Shot 2020-03-06 at 6 20 49 PM" src="https://user-images.githubusercontent.com/43684968/76134934-4cd73100-5fd7-11ea-981d-a889772e0887.png">
