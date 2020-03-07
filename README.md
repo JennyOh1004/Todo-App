@@ -2,6 +2,7 @@
 
 I built a Todo List App with a fluid user interface using JavaScript library, React.
 
+
 React applications are firmly based around the idea of breaking up an application into multiple components. Each component controls a small subsection of the whole application. Also, components allow you to split the application into independent, reusable pieces.
 
 I add the ability to create, show, update and remove lists on a todo. (CRUD)
