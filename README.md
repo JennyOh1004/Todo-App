@@ -1,4 +1,4 @@
-### **Todo List Application**
+# Todo List Application
 
 I built a Todo List App with a fluid user interface using JavaScript library, React.
 
